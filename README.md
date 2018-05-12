@@ -8,7 +8,7 @@ This project is the 3rd homework of IE 413 Supply Chain Management at Bogazici U
 
 # Training
 
-```https://github.com/MuhammedBuyukkinaci/Traveling-Salesman-Problem-Turkey.git```
+```git clone https://github.com/MuhammedBuyukkinaci/Traveling-Salesman-Problem-Turkey.git```
 
 ```cd ./Traveling-Salesman-Problem-Turkey```
 
