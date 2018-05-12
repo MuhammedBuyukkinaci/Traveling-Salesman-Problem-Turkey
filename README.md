@@ -21,8 +21,9 @@ For 81-cities including solution, run
 ```python Python_regulating_81.py```
 
 # Plottings
+The solution for 15-cities is below:
+![alt text](https://github.com/MuhammedBuyukkinaci/Traveling-Salesman-Problem-Turkey/blob/master/tsp_Starting_from_zonguldak.png) 
 
-
-
-
+The solution for all cities is below:
+![alt text](https://github.com/MuhammedBuyukkinaci/Traveling-Salesman-Problem-Turkey/blob/master/tsp_Starting_from_nigde.png) 
 
