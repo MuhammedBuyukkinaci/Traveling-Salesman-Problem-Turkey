@@ -1,10 +1,10 @@
 # Traveling-Salesman-Problem-Turkey
 
-This repository is containing the solution outputs of Traveling Salesman Problem among Turkey's cities
+This repository is containing the solution outputs of Traveling Salesman Problem among Turkey's cities.
 
 # Details
 
-This project is the 3rd homework of IE 413 Supply Chain Management at Bogazici University.
+This project is the 3rd homework of [IE 413 Supply Chain Management](http://www.ie.boun.edu.tr/?q=tr/dersler/ie-413-tedarik-zinciri-y%C3%B6netimi) at Bogazici University.
 
 # Training
 
@@ -28,6 +28,6 @@ The solution for all cities is below:
 ![alt text](https://github.com/MuhammedBuyukkinaci/Traveling-Salesman-Problem-Turkey/blob/master/tsp_Starting_from_nigde.png) 
 
 # Contributors
-Credits go to [Ahmet Ihsan Erdogan](https://www.linkedin.com/in/ahmet-ihsan-erdogan/). He solved [Traveling Salesman Problem](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/) for Turkey in CMPL on [Gurobi](http://www.gurobi.com/) optimizer. I mostly dealed with visualizations and data processing.
+Credits go to [Ahmet Ihsan Erdogan](https://www.linkedin.com/in/ahmet-ihsan-erdogan/). He solved [Traveling Salesman Problem](https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/) for Turkey in CMPL on [Gurobi](http://www.gurobi.com/) optimizer. I mostly dealed with visualizations and data processings.
 
 
